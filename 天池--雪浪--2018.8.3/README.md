@@ -37,11 +37,11 @@ Cudnn：7.0
 
 
 ### 以下是图像分类的相关脚本：
-img_aug.ipynb:图像数据增强的脚本，使用了imgaug包，对图像进行了随机的上下翻转，左右翻转和明暗的轻微变化。
+classifier/img_aug.ipynb:图像数据增强的脚本，使用了imgaug包，对图像进行了随机的上下翻转，左右翻转和明暗的轻微变化。
 
-keras model.ipynb:模型训练的脚本
+classifier/keras model.ipynb:模型训练的脚本
 
-test.ipynb:生成测试csv的脚本
+classifier/test.ipynb:生成测试csv的脚本
 
 
 ## 目标检测
