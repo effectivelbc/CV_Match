@@ -1,0 +1,6 @@
+操作系统： ubuntu 16.04
+cuda：9.0.176
+cudnn：7
+keras: 2.2.0
+imgaug: github地址：https://github.com/aleju/imgaug
+tensorflow-gpu: 1.8.0
